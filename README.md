@@ -48,10 +48,10 @@ This project builds an intelligent system to classify news articles as **real** 
 
 ## ✍️ Authors
 
-- [Your Name]
-- [Teammate 2]
-- [Teammate 3]
-- [Teammate 4]
+- AYUP K
+- DEEPAK DHARSHAN P
+- DHANUSH M
+- APSAL BEHATH A
 
 ## 💡 Future Work
 
